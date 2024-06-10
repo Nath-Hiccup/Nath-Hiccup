@@ -1,8 +1,8 @@
-<img src="assets/cyberpunkimgbysashander.jpg" alt="ader713 Computer ciberpunk sci-fi game by Sashander on DeviantArt" height="10%" width="100%">
+<img src="assets/cyberpunkimgbysashander.jpg" alt="ader713 Computer ciberpunk sci-fi game by Sashander on DeviantArt" height="150">
 
 <h1>Welcome!</h1>
 
-<h2>About me</h2>
+<h2>👋 About me</h2>
 
 I'm a student at RMIT in Melbourne, Australia studying to be a Software Engineer.
 
@@ -19,7 +19,7 @@ I'm a student at RMIT in Melbourne, Australia studying to be a Software Engineer
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45"/>     
 </p>
 
-<h2> 🚧 Tools and Languages currently learning! 🚧</h2>
+<h2> 🚧 Currently learning - 🚧</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" width="45" height="45"/>
