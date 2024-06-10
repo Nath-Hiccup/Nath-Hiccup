@@ -1,4 +1,4 @@
-<img src="assets/cyberpunkimgbysashander.jpg" alt="ader713 Computer ciberpunk sci-fi game by Sashander on DeviantArt" height="150">
+<img src="assets/cyberpunkimgbysashander.jpg" alt="ader713 Computer ciberpunk sci-fi game by Sashander on DeviantArt" width="100%" height="150" object-fit="cover">
 
 <h1>Welcome!</h1>
 
