@@ -4,8 +4,8 @@
 
 I'm a student at RMIT in Melbourne, Australia studying to be a Software Engineer.
 
-💡 Currently Studying - Specialised Java
-👀 Interested In - Software Development and Databases
+💡 Currently Studying - PowerShell and C#
+👀 Interested In - Full Stack Development and Databases
 
 <h2> ✅ Tools and Languages Learned so far! ✅</h2>
 <p align="left">
