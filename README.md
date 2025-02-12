@@ -4,7 +4,7 @@
 
 I'm a student at RMIT in Melbourne, Australia studying to be a Software Engineer.
 
-💡 Currently Studying - PowerShell and C#
+💡 Currently Studying - PowerShell and C# <br>
 👀 Interested In - Full Stack Development and Databases
 
 <h2> ✅ Tools and Languages Learned so far! ✅</h2>
