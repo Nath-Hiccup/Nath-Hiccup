@@ -2,10 +2,10 @@
 
 <h2>About me</h2>
 
-I'm a student at RMIT in Melbourne, Australia studying to be a Software Engineer.
+I'm a student at RMIT in Melbourne.
 
 💡 Currently Studying - PowerShell and C# <br>
-👀 Interested In - Full Stack Development and Databases
+👀 Interested In - Full Stack Development and Databases.
 
 <h2> ✅ Tools and Languages Learned so far! ✅</h2>
 <p align="left">
